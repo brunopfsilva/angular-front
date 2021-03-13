@@ -1,0 +1,19 @@
+/* cor da barra vertical */
+.sidenav {
+    background-color: rgba(57, 10, 133, 0.925);
+    width: 200px;
+}
+
+/*  cor da letra */
+.sidenav a {
+    color: #ddd;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
